@@ -1,0 +1,85 @@
+﻿numero,libelle,nature,classe,type
+1,Comptes de ressources durables,bilan,1,classe
+10,Capital,bilan,1,compte
+11,Réserves,bilan,1,compte
+12,Report à nouveau,bilan,1,compte
+13,Résultat net de l'exercice,bilan,1,compte
+14,Subventions d'investissement,bilan,1,compte
+15,Provisions réglementées et fonds assimilés,bilan,1,compte
+16,Emprunts et dettes assimilées,bilan,1,compte
+17,Dettes de location-acquisition,bilan,1,compte
+18,Dettes liées à des participations et comptes de liaison des établissements et sociétés en participation,bilan,1,compte
+19,Provisions pour risques et charges,bilan,1,compte
+2,Comptes d'actif immobilisé,bilan,2,classe
+21,Immobilisations incorporelles,bilan,2,compte
+22,Terrains,bilan,2,compte
+23,"Bâtiments, installations techniques et agencements",bilan,2,compte
+24,"Matériel, mobilier et actifs biologiques",bilan,2,compte
+25,Avances et acomptes versés sur immobilisations,bilan,2,compte
+26,Titres de participation,bilan,2,compte
+27,Autres immobilisations financières,bilan,2,compte
+28,Amortissements,bilan,2,compte
+29,Dépréciations des immobilisations,bilan,2,compte
+3,Comptes de stocks,bilan,3,classe
+31,Marchandises,bilan,3,compte
+32,Matières premières et fournitures liées,bilan,3,compte
+33,Autres approvisionnements,bilan,3,compte
+34,Produits en cours,bilan,3,compte
+35,Services en cours,bilan,3,compte
+36,Produits finis,bilan,3,compte
+37,Produits intermédiaires et résiduels,bilan,3,compte
+38,"Stocks en cours de route, en consignation ou en dépôt",bilan,3,compte
+39,Dépréciations des stocks et encours de production,bilan,3,compte
+4,Comptes de tiers,bilan,4,classe
+40,Fournisseurs et comptes rattachés,bilan,4,compte
+41,Clients et comptes rattachés,bilan,4,compte
+42,Personnel,bilan,4,compte
+43,Organismes sociaux,bilan,4,compte
+44,État et collectivités publiques,bilan,4,compte
+45,Organismes internationaux,bilan,4,compte
+46,"Apporteurs, associés et groupe",bilan,4,compte
+47,Débiteurs et créditeurs divers,bilan,4,compte
+48,Créances et dettes hors activités ordinaires (HAO),bilan,4,compte
+49,Dépréciations et provisions pour risques à court terme (tiers),bilan,4,compte
+5,Comptes de trésorerie,bilan,5,classe
+50,Titres de placement,bilan,5,compte
+51,Valeurs à encaisser,bilan,5,compte
+52,Banques,bilan,5,compte
+53,Établissements financiers et assimilés,bilan,5,compte
+54,Instruments de trésorerie,bilan,5,compte
+55,Instruments de monnaie électronique,bilan,5,compte
+56,"Banques, crédits de trésorerie et d'escompte",bilan,5,compte
+57,Caisse,bilan,5,compte
+58,"Régies d'avances, accréditifs et virements internes",bilan,5,compte
+59,Dépréciations et provisions pour risques à court terme (trésorerie),bilan,5,compte
+6,Comptes de charges des activités ordinaires,gestion,6,classe
+60,Achats et variations de stocks,gestion,6,compte
+61,Transports,gestion,6,compte
+62,Services extérieurs A,gestion,6,compte
+63,Services extérieurs B,gestion,6,compte
+64,Impôts et taxes,gestion,6,compte
+65,Autres charges,gestion,6,compte
+66,Charges de personnel,gestion,6,compte
+67,Frais financiers et charges assimilées,gestion,6,compte
+68,Dotations aux amortissements,gestion,6,compte
+69,Dotations aux provisions et aux dépréciations,gestion,6,compte
+7,Comptes de produits des activités ordinaires,gestion,7,classe
+70,Ventes,gestion,7,compte
+71,Subventions d'exploitation,gestion,7,compte
+72,Production immobilisée,gestion,7,compte
+73,Variations des stocks de biens et de services produits,gestion,7,compte
+75,Autres produits,gestion,7,compte
+77,Revenus financiers et produits assimilés,gestion,7,compte
+78,Transferts de charges,gestion,7,compte
+79,"Reprises de provisions, de dépréciations et autres",gestion,7,compte
+8,Comptes des autres charges et des autres produits,gestion,8,classe
+81,Valeurs comptables des cessions d'immobilisations,gestion,8,compte
+82,Produits des cessions d'immobilisations,gestion,8,compte
+83,Charges hors activités ordinaires,gestion,8,compte
+84,Produits hors activités ordinaires,gestion,8,compte
+85,Dotations hors activités ordinaires,gestion,8,compte
+86,Reprises hors activités ordinaires,gestion,8,compte
+87,Participation des travailleurs,gestion,8,compte
+88,Subventions d'équilibre,gestion,8,compte
+89,Impôts sur le résultat,gestion,8,compte
+9,Comptes des engagements hors bilan et de la comptabilité analytique de gestion,hors_bilan_analytique,9,classe

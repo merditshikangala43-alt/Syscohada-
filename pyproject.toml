@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "syscohada"
+version = "0.1.1"
+description = "Selection de comptes SYSCOHADA et outils de calcul TVA RDC"
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+authors = [{name = "Merdi Tshikangala"}]
+classifiers = ["Programming Language :: Python :: 3", "Natural Language :: French"]
+
+[tool.setuptools.packages.find]
+include = ["syscohada*"]
+
+[tool.setuptools.package-data]
+"syscohada.data" = ["*.json"]

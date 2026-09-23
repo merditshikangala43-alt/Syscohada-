@@ -1,0 +1,13 @@
+{
+  "pays": "RDC",
+  "devise": "CDF",
+  "taux": {
+    "normal": 0.16,
+    "exportation": 0.0
+  },
+  "note": "Version 0.1.1 : seuls les taux explicitement vérifiés sont exposés ici. Le projet ne présente plus 8 % comme un taux réduit générique. Pour toute opération bénéficiant d’un régime particulier, vérifier le texte fiscal et les instructions DGI applicables à la date de l’opération.",
+  "regimes": {
+    "normal": "16 %",
+    "exportation": "0 %"
+  }
+}
